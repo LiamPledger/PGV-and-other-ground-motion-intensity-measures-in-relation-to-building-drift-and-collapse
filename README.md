@@ -12,7 +12,7 @@ This repository contains all data, Python scripts, ground motion records, and bu
 - **IDA Results**: Data used to develop IDA curves are provided here. Excel files for each model (max_drift.xlsx) include peak storey drift recorded for each increment of spectral acceleration used in IDA for all 100 ground motions. 
 - **SaRatio and Ds plots**: Python scripts and relevant GM data to reproduce Figure 5 and 6.
 - **Sufficiency plots**: Python scripts and relevant data for the plots illustrating the sufficiency of the different IMs.
-- **Efficiency plots**: Python scripts and relevant data for the plots illustrating the sufficiency of the different IMs.
+- **Efficiency plots**: Python scripts and relevant data for the plots illustrating the efficiency of the different IMs.
 
 
 ## Getting Started
