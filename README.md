@@ -13,7 +13,8 @@ This repository contains all data, Python scripts, ground motion records, and bu
 - **SaRatio and Ds plots**: Python scripts and relevant GM data to reproduce Figure 5 and 6.
 - **Sufficiency plots**: Python scripts and relevant data for the plots illustrating the sufficiency of the different IMs.
 - **Efficiency plots**: Python scripts and relevant data for the plots illustrating the sufficiency of the different IMs.
-- 
+
+
 ## Getting Started
 
 1. **Clone the repository**:
