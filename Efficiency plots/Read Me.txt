@@ -1,0 +1,6 @@
+Run the code and plots should be produced and saved in the \Plots folder.
+
+The excel file "log_std_and_cov_scaled_IMs.xlsx" lists the log-normal standard deviation
+and the coefficient of variation (std/mean for linear space) for each intensity measure for each model. 
+
+These results are used to quantify the "efficiency" of the different ground motion intensity measures. 
