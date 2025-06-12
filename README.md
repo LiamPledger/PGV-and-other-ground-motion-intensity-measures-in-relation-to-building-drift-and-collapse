@@ -2,8 +2,7 @@
 
 ## Overview
 
-This repository contains all data, Python scripts, ground motion records, and building models used in the study "_PGV and other ground motion intensity measures in relation to building drift and collapse_". The goal is to enable full transparency and reproducibility for researchers and anyone interested in using the data.
-
+This repository contains all data, Python scripts, ground motion records, and building models used in the study "_PGV and other ground motion intensity measures in relation to building drift and collapse_". 
 ## Contents
 
 
