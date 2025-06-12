@@ -24,7 +24,7 @@ This repository contains all data, Python scripts, ground motion records, and bu
    ```
    
 2. **Usage**:
-   - Please feel free to use the python scripts for data analysis and modeling.
+   - Building models and ground motions are available and can be used to conduct IDA.
    - Input data, ground motions, and numerical models can be found in their respective directories.
    - Processed data of intensity measures and python scripts can be used to create new plots / investigate new IMs or trends related to the data.
    - The IDA data could also be used to evaluate IMs at a range of drift thresholds, not just collapse as was done in this study.
